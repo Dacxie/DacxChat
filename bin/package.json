@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+	"socket.io": ">= 0.9"
+  },
+  "name": "ZeroChat",
+  "version": "0.3.4",
+  "description": "First chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Dacx",
+  "license": "MIT"
+}
